@@ -10,7 +10,7 @@ This is a Streamlit web application for predicting Telecom Churn. The app uses a
 
 <!-- Badges -->
 
-<a href="https://priyanshu88-diabestes-prediction-streamlit-app-main-5komds.streamlit.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://telecom-churn-prediction-app-92spidw8wnl.streamlit.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App.svg)
 ![](https://img.shields.io/github/stars/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App.svg)
@@ -69,9 +69,9 @@ The trained dataset is originally from the IBM Sample Datasets. The objective is
 
 `streamlit`
 
-`pandas`
+`pandas==1.4.4`
 
-`scikit-learn`
+`scikit-learn==1.2.1`
 
 ## :gear: Installation
 
@@ -122,13 +122,13 @@ The app will display following messages:
 
 ## :triangular_flag_on_post: Deployment and Notebook
 
-This tool has been deployed using [`Streamlit`](https://streamlit.io/). Learn about streamlit deployment [`here`](https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app). Checkout the notebook repository [`here`](https://github.com/Priyanshu88/Diabestes-Prediction-Streamlit-App) from where the pickle file has been imployed in the tool.
+This tool has been deployed using [`Streamlit`](https://streamlit.io/). Learn about streamlit deployment [`here`](https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app). Checkout the notebook repository [`here`](https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App) from where the pickle file has been imployed in the tool.
 
 
 
 ## :balance_scale: License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App/blob/main/LICENSE) file for details.
 
 
 
@@ -136,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
+Your Name - [@twitter_handle](https://twitter.com/Priyans75729802) - 2040020@sliet.ac.in
 
 Project Link: [https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App.git](https://github.com/Priyanshu88/Telecom-Churn-Prediction-Streamlit-App.git)
 <hr />
